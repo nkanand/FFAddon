@@ -1,0 +1,10 @@
+{
+  "name": "firefoxaddon",
+  "title": "FirefoxAddon",
+  "id": "jid1-SerTv5IR3fjj3Q@jetpack",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "main": "main.js"
+}
